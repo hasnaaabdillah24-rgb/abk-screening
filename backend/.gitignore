@@ -1,0 +1,12 @@
+.env
+node_modules/
+.DS_Store
+*.log
+build/
+dist/
+.vscode/
+.idea/
+.env.local
+*.sqlite
+*.sqlite3
+uploads/
